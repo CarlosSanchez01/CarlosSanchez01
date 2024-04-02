@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Carlos Sanchez</h1>
-<h3 align="center">A researches and technology enthusiast</h3>
+<h3 align="center">A researcher and technology enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlossanchez01&label=Profile%20views&color=0e75b6&style=flat" alt="carlossanchez01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlossanchez01" alt="carlossanchez01" /></a> </p>
 
-- 🔭 I’m currently working on [several EU projects at Eviden](https://eviden.com/)
+- 🔭 I’m currently working on several EU projects at [Eviden](https://eviden.com/)
 
 - 🌱 I’m currently learning **kubernetes**
 
-- 👯 I’m looking to collaborate on [GO-based technologies such as](https://headscale.net/)
+- 👯 I’m looking to collaborate on GO-based technologies such as [headscale](https://headscale.net/)
 
 - 🤝 I’m looking for help with [open-cluster-management](https://open-cluster-management.io/)
 
@@ -18,8 +18,7 @@
 <p align="left">
 </p>
 
-
-
+---
 
 <h3 align="left">Languages:</h3>
 <p align="left">
