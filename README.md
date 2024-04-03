@@ -14,14 +14,11 @@
 - 🤝 I’m looking for help with [open-cluster-management](https://open-cluster-management.io/)
 - 💬 Ask me about **kubernetes, go, networking, linux**
 
-## 🧑‍💻 My open source repos
+## My open source repos 💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlossanchez01&repo=&theme=radical)](https://github.com/carlossanchez01/repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlossanchez01&repo=&theme=radical)](https://github.com/carlossanchez01/repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlossanchez01&repo=&theme=radical)](https://github.com/carlossanchez01/repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlossanchez01&repo=&theme=radical)](https://github.com/carlossanchez01/repo)
+[![R_course_intro](https://github-readme-stats.vercel.app/api/pin/?username=carlossanchez01&repo=&theme=radical)](https://github.com/carlossanchez01/R_course_intro)
 
-## Stats
+## Stats 📊
 
 [![CarlosSanchez01 languages](https://github-readme-stats.vercel.app/api/top-langs?username=carlossanchez01&show_icons=true&&count_private=true&theme=radical&layout=compact)](https://github.com/CarlosSanchez01)
 [![CarlosSanchez01 github stats](https://github-readme-stats.vercel.app/api?username=carlossanchez01&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/CarlosSanchez01)
@@ -34,8 +31,8 @@
 [![GO](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/go.svg)](https://golang.org)
 [![Python](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/python.svg)](https://www.python.org)
 [![Javascript](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![R]()]()
-[![Latex]()]()
+[![R](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/R.svg)](https://www.r-project.org/)
+[![Latex](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/latex.svg)](https://www.latex-project.org/)
 
 ## Web and frontend:
 
