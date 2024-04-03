@@ -29,10 +29,10 @@
 
 ## Languages:
 
-![](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg | width=100)
-![](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg =250x250)
+![](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg)
+![](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg)
 
-[![Bash](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg | width=100)](https://www.gnu.org/software/bash/)
+[![Bash](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg)](https://www.gnu.org/software/bash/)
 
 [![C](./logos/C)](https://www.cprogramming.com)
 [![GO](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org)
