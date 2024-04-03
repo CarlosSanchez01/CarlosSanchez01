@@ -1,4 +1,4 @@
-// ![Hero image](https://raw.githubusercontent.com/carlossanchez01/images/master/github-profile.jpg)
+// ![Hero image](https://raw.githubusercontent.com/carlossanchez01/images/master/images/vintage.jpg)
 
 [![GitHub followers](https://img.shields.io/github/followers/carlossanchez01?logo=GitHub&style=for-the-badge)](https://github.com/CarlosSanchez01)
 [![GitHub Stars](https://img.shields.io/github/stars/carlossanchez01?logo=github&style=for-the-badge)](https://github.com/CarlosSanchez01)
@@ -16,7 +16,7 @@
 
 ## My open source repos 💻
 
-[![R_course_intro](https://github-readme-stats.vercel.app/api/pin/?username=carlossanchez01&R_course_intro=&theme=radical)](https://github.com/carlossanchez01/R_course_intro)
+[![R_course_intro](https://github-readme-stats.vercel.app/api/pin/?username=carlossanchez01&repo=R_course_intro=&theme=radical)](https://github.com/carlossanchez01/R_course_intro)
 
 ## Stats 📊
 
