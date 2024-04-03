@@ -29,49 +29,44 @@
 
 ## Languages:
 
-![](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg)
-![](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg)
-
 [![Bash](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg)](https://www.gnu.org/software/bash/)
-
-[![C](./logos/C)](https://www.cprogramming.com)
-[![GO](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-[![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/c.svg)](https://www.cprogramming.com)
+[![GO](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/go.svg)](https://golang.org)
+[![Python](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/python.svg)](https://www.python.org)
+[![Javascript](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![R]()]()
 [![Latex]()]()
 
 ## Web and frontend:
 
-[![html](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![Hugo](https://api.iconify.design/logos-hugo.svg)](https://gohugo.io/)
+[![html](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/html.svg)](https://www.w3.org/html/)
+[![Hugo](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/hugo.svg)](https://gohugo.io/)
 [![htmx]()]()
-[![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com)
-[![node](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
-[![figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
-[![qt](https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg)](https://www.qt.io/)
+[![bootstrap](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/bootstrap.svg)](https://getbootstrap.com)
+[![node](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/node.svg)](https://nodejs.org)
+[![react](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/react.svg)](https://reactjs.org/)
+[![figma](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/figma.svg)](https://www.figma.com/)
+[![qt](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/qt.svg)](https://www.qt.io/)
 
 ## Containers and orchestration:
 
-[![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)](https://kubernetes.io)
-[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)
-[![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)](https://kafka.apache.org/)
-[![Rabbit](https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg)](https://www.rabbitmq.com)
-[![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg)](https://grafana.com)
+[![Kubernetes](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/kubernetes.svg)](https://kubernetes.io)
+[![Docker](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/docker.svg)](https://www.docker.com/)
+[![Kafka](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/kafka.svg)](https://kafka.apache.org/)
+[![Rabbit](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/rabbit.svg)](https://www.rabbitmq.com)
+[![Grafana](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/grafana.svg)](https://grafana.com)
 [![Prometheus]()]()
 [![Open cluster management]()]()
 
 ## Other tools:
 
-[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
-[![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)](https://www.arduino.cc/)
-[![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)](https://www.blender.org/)
-[![Proxmox]()]()
-[![Vagrant](https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg)](https://www.vagrantup.com/)
-[![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)](https://www.jenkins.io)
-[![Postgres](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org)
+[![Linux](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/linux.svg)](https://www.linux.org/)
+[![Git](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/git.svg)](https://git-scm.com/)
+[![Arduino](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg)](https://www.arduino.cc/)
+[![Blender](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/blender.svg)](https://www.blender.org/)
+[![Vagrant](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/vagrant.svg)](https://www.vagrantup.com/)
+[![Jenkins](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/jenkins.svg)](https://www.jenkins.io)
+[![Postgres](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/postgres.svg)](https://www.postgresql.org)
 
 ## Github trophy:
 
