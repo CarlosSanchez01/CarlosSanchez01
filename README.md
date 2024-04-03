@@ -32,8 +32,8 @@
 ![](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg =250x250)
 
 
-[![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://www.gnu.org/software/bash/)
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg | width=100 )](https://www.cprogramming.com)
+[![Bash](./logos/bash)](https://www.gnu.org/software/bash/)
+[![C](./logos/C)](https://www.cprogramming.com)
 [![GO](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org)
 [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
 [![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
