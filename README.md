@@ -1,8 +1,8 @@
-![Hero image](https://raw.githubusercontent.com/carlossanchez01/images/main/images/vintage.jpg)
+![Hero image](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/images/vintage.jpg)
 
-[![GitHub followers](https://img.shields.io/github/followers/carlossanchez01?logo=GitHub&style=for-the-badge)](https://github.com/CarlosSanchez01)
-[![GitHub Stars](https://img.shields.io/github/stars/carlossanchez01?logo=github&style=for-the-badge)](https://github.com/CarlosSanchez01)
-[![Profile views](https://komarev.com/ghpvc/?username=carlossanchez01&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/CarlosSanchez01)
+[![GitHub followers](https://img.shields.io/github/followers/CarlosSanchez01?logo=GitHub&style=for-the-badge)](https://github.com/CarlosSanchez01)
+[![GitHub Stars](https://img.shields.io/github/stars/CarlosSanchez01?logo=github&style=for-the-badge)](https://github.com/CarlosSanchez01)
+[![Profile views](https://komarev.com/ghpvc/?username=CarlosSanchez01&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/CarlosSanchez01)
 
 # Hi 👋, I'm Carlos Sanchez,
 
