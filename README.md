@@ -26,20 +26,22 @@
 
 ## Languages:
 
-[![Bash](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg)](https://www.gnu.org/software/bash/)
+[![Bash](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/bash.svg)](https://www.gnu.org/software/bash/)
 [![C](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/c.svg)](https://www.cprogramming.com)
 [![GO](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/go.svg)](https://golang.org)
 [![Python](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/python.svg)](https://www.python.org)
 [![Javascript](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![R](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/R.svg)](https://www.r-project.org/)
-[![Latex](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/latex.svg)](https://www.latex-project.org/)
+[![Latex](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/Latex.svg)](https://www.latex-project.org/)
 
 ## Web and frontend:
 
-[![html](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/html.svg)](https://www.w3.org/html/)
-[![Hugo](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/hugo.svg)](https://gohugo.io/)
-[![htmx]()]()
-[![bootstrap](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/bootstrap.svg)](https://getbootstrap.com)
+[![html](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/html5.svg)](https://www.w3.org/html/)
+[![Hugo](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/Hugo.svg)](https://gohugo.io/)
+
+<!-- [![htmx]()]() -->
+
+[![bootstrap](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/Bootstrap.svg)](https://getbootstrap.com)
 [![node](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/node.svg)](https://nodejs.org)
 [![react](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/react.svg)](https://reactjs.org/)
 [![figma](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/figma.svg)](https://www.figma.com/)
@@ -47,13 +49,14 @@
 
 ## Containers and orchestration:
 
-[![Kubernetes](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/kubernetes.svg)](https://kubernetes.io)
+[![Kubernetes](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/Kubernetes.svg)](https://kubernetes.io)
 [![Docker](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/docker.svg)](https://www.docker.com/)
-[![Kafka](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/kafka.svg)](https://kafka.apache.org/)
+[![Kafka](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/Kafka.svg)](https://kafka.apache.org/)
 [![Rabbit](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/rabbit.svg)](https://www.rabbitmq.com)
 [![Grafana](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/grafana.svg)](https://grafana.com)
-[![Prometheus]()]()
-[![Open cluster management]()]()
+[![Prometheus](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/Prometheus.svg)](https://prometheus.io/)
+
+<!-- [![Open cluster management]()]() -->
 
 ## Other tools:
 
