@@ -32,7 +32,7 @@
 ![](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg | width=100)
 ![](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg =250x250)
 
-[![Bash](./logos/arduino | width=100)](https://www.gnu.org/software/bash/)
+[![Bash](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/arduino.svg | width=100)](https://www.gnu.org/software/bash/)
 [![C](./logos/C)](https://www.cprogramming.com)
 [![GO](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org)
 [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
