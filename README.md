@@ -28,8 +28,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlossanchez01&count_private=true&theme=radical)](https://github.com/CarlosSanchez01)
 
 ## Languages:
-[![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg | width=100))](https://www.gnu.org/software/bash/)
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg | width=100))](https://www.cprogramming.com)
+[![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://www.gnu.org/software/bash/ | width=100)
+[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg | width=100 )](https://www.cprogramming.com)
 [![GO](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org)
 [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
 [![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
