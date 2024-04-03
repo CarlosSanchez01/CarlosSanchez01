@@ -1,4 +1,4 @@
-// ![Hero image](https://raw.githubusercontent.com/carlossanchez01/images/main/images/vintage.jpg)
+![Hero image](https://raw.githubusercontent.com/carlossanchez01/images/main/images/vintage.jpg)
 
 [![GitHub followers](https://img.shields.io/github/followers/carlossanchez01?logo=GitHub&style=for-the-badge)](https://github.com/CarlosSanchez01)
 [![GitHub Stars](https://img.shields.io/github/stars/carlossanchez01?logo=github&style=for-the-badge)](https://github.com/CarlosSanchez01)
