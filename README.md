@@ -4,8 +4,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/carlossanchez01?logo=github&style=for-the-badge)](https://github.com/CarlosSanchez01)
 [![Profile views](https://komarev.com/ghpvc/?username=carlossanchez01&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/CarlosSanchez01)
 
-
 # Hi 👋, I'm Carlos Sanchez,
+
 ## researcher, developer and technology enthusiast.
 
 - 🔭 I’m currently working on several EU projects at [Eviden](https://eviden.com/)
@@ -28,11 +28,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlossanchez01&count_private=true&theme=radical)](https://github.com/CarlosSanchez01)
 
 ## Languages:
+
 ![](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg | width=100)
 ![](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg =250x250)
 
-
-[![Bash](./logos/bash)](https://www.gnu.org/software/bash/)
+[![Bash](./logos/arduino | width=100)](https://www.gnu.org/software/bash/)
 [![C](./logos/C)](https://www.cprogramming.com)
 [![GO](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org)
 [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
@@ -41,6 +41,7 @@
 [![Latex]()]()
 
 ## Web and frontend:
+
 [![html](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
 [![Hugo](https://api.iconify.design/logos-hugo.svg)](https://gohugo.io/)
 [![htmx]()]()
@@ -51,6 +52,7 @@
 [![qt](https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg)](https://www.qt.io/)
 
 ## Containers and orchestration:
+
 [![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)](https://kubernetes.io)
 [![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)
 [![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)](https://kafka.apache.org/)
@@ -60,6 +62,7 @@
 [![Open cluster management]()]()
 
 ## Other tools:
+
 [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
 [![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)](https://www.arduino.cc/)
@@ -70,6 +73,5 @@
 [![Postgres](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org)
 
 ## Github trophy:
+
 [![Trophys](https://github-profile-trophy.vercel.app/?username=carlossanchez01)](https://github.com/CarlosSanchez01)
-
-
