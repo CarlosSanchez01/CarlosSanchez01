@@ -32,7 +32,7 @@
 [![Python](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/python.svg)](https://www.python.org)
 [![Javascript](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![R](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/R.svg)](https://www.r-project.org/)
-[![Latex](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/Latex.svg)](https://www.latex-project.org/)
+[![Latex](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/LaTeX.svg)](https://www.latex-project.org/)
 
 ## Web and frontend:
 
