@@ -27,7 +27,7 @@
 ## Languages:
 
 [![Bash](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/bash.svg)](https://www.gnu.org/software/bash/)
-[![C](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/c.svg)](https://www.cprogramming.com)
+[![C](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/C.svg)](https://www.cprogramming.com)
 [![GO](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/go.svg)](https://golang.org)
 [![Python](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/python.svg)](https://www.python.org)
 [![Javascript](https://raw.githubusercontent.com/CarlosSanchez01/CarlosSanchez01/main/logos/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
