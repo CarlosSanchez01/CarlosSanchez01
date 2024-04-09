@@ -17,6 +17,7 @@
 ## My open source repos 💻
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlossanchez01&repo=R_course_intro&theme=radical)](https://github.com/carlossanchez01/R_course_intro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlossanchez01&repo=carlossanchez01.github.io&theme=radical)](https://github.com/carlossanchez01/carlossanchez01.github.io)
 
 ## Stats 📊
 
